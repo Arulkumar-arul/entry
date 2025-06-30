@@ -1,0 +1,46 @@
+body{
+    color: white;
+    background-image: url(asset/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-header{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+form{
+    width: 400px;
+    height: 60px;
+    padding: 7px;
+    margin-left: 400px;
+    
+}
+.header-nav{
+    margin-left: 400px;
+    padding: 4px;
+    margin-top: 4px;
+}
+ul{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+    border-radius: 3px;
+    
+}
+
+.nav-link:hover{
+    background-color: brown;
+    padding: 20px;
+    border-radius: 35px;
+}
+img{
+    width: 85%;
+    height: 400px;
+    margin-left: 70px;
+}
