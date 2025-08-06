@@ -1,0 +1,20 @@
+footer{
+    background-color: rgb(44, 106, 108);
+    height: 250px;
+    border-radius: 10px;
+}
+.foot{
+    padding: 10px;
+}
+.foot h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(238, 166, 12);
+    font-size: 25px;
+}
+.foot p{
+    color: white;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 20px;
+}

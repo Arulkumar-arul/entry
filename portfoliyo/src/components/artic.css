@@ -1,0 +1,14 @@
+main{
+    text-align: justify;
+    justify-content: flex-start;
+    }
+main h3{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+main p{
+    word-spacing: 7px;
+    text-indent: 40px;
+    font-size: 20px;
+}

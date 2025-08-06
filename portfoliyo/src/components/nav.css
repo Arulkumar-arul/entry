@@ -1,0 +1,22 @@
+.nave{
+    background-color: rgb(26, 241, 84);
+    height: 70px;
+}
+.nave ul{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 10px;
+    font-weight: bold;
+
+}
+ul li:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}

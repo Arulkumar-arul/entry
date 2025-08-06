@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    justify-content: center;
+}
+.froms h3{
+    text-transform: uppercase;
+}
+.froms label{
+    display: block;
+    font-weight: bold;
+    margin: 10px;
+    color: rgb(45, 2, 102);
+}
+.froms input,textarea{
+    padding: 10px;
+    border-radius: 7px;
+    border-color: rgb(43, 226, 104);
+}
+.froms .btn{
+    text-align: center;
+    justify-items: center;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    width: 100px;
+    border-color: brown;
+}
+.froms .btn:hover{
+    background-color: rgb(197, 235, 7);
+    color: rgb(2, 1, 14);
+}
