@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1bf4",
+      "username": "",
+      "dob": "",
+      "mobilenumber": "",
+      "email": "ARULKUMAR10112001@GMAIL.COM",
+      "password": "arul123",
+      "qualification": "",
+      "role": ""
+    },
+    {
+      "id": "a195",
+      "username": "arulkumar",
+      "dob": "2025-08-20",
+      "mobilenumber": "9566569565",
+      "email": "ARULKUMAR10112001@GMAIL.COM",
+      "password": "arul123",
+      "qualification": "B.Sc",
+      "role": "user"
+    },
+    {
+      "id": "29c5",
+      "username": "murugan",
+      "dob": "2025-08-21",
+      "mobilenumber": "97876543210",
+      "email": "arulkumar@gmail.com",
+      "password": "arul1234",
+      "qualification": "B.Sc",
+      "role": "admin"
+    },
+    {
+      "id": "308c",
+      "username": "lakshmi",
+      "dob": "2025-08-14",
+      "mobilenumber": "9087654321",
+      "email": "lakshmi@gmail.com",
+      "password": "arul123",
+      "qualification": "B.Sc",
+      "role": ""
+    }
+  ]
+}
